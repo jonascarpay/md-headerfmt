@@ -69,6 +69,5 @@ Bar
 
 ## Usage
 
-Run as you would any python script.
-Reads a file either from `stdin` or as a command line argument.
-Results are printed to `stdout`.
+Reads a file either from `stdin` or as a command line argument, and prints the formatted result to `stdout`.
+Run as you would any python script, and set up your editor to run it on every save.

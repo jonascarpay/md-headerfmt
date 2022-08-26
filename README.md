@@ -71,3 +71,7 @@ Bar
 
 Reads a file either from `stdin` or as a command line argument, and prints the formatted result to `stdout`.
 Run as you would any python script, and set up your editor to run it on every save.
+
+### Pandoc users
+
+If you use Pandoc's metadata header, you'll want to close it with `...` instead of `---` so it doesn't accidentally parse as a header.
